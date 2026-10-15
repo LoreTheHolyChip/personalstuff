@@ -14,6 +14,8 @@ so you go into windhawk > create new mod > copy script > paste it into windhawk 
 <sub>god damn it sharex make the damn hotkey work</sub>
 
 # Fluent Cursor
+
+[Source — Fluent Pointer v0.3.53](mods/fluent-pointer.wh.cpp) · Experimental code, untested from this repository.
 kinda buggy but still cool, it adds animations to the cursor and also adds elastic physic and more!
 feel free to leave some ideas on issue! and also if there are any actual bugs, ill decide to fix it, cuz yeah im lazy lol
 heres some examples:
@@ -52,6 +54,8 @@ it has also support for having multiple devices connected.
 
 ---
 # Fluent Clock
+
+[Source — Fluent Clock v0.1.43](mods/fluent-clock.wh.cpp) · Experimental code, untested from this repository.
 makes the time have a smooth animation, for when it changes.
 
 https://github.com/user-attachments/assets/27bbd04b-265d-4d48-a1f8-152743b47868
