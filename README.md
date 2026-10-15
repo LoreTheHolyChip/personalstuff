@@ -33,6 +33,12 @@ it also has animation for hovering buttons and another animation when it passes 
 ---
 # KDE Connect Integration
 this is entirely made by me and chatgpt and also requires another module that im gonna give.
+ 
+Sources (work in progress; missing required header files, **not ready to compile**):
+- [KDE Connect Integration v0.6.0](mods/kde-connect-integration.wh.cpp)
+- [KDE Connect Battery Module v0.1.0](mods/kde-connect-battery-module-windows.wh.cpp)
+- [Required files and setup notes](mods/KDE_CONNECT_STATUS.md)
+
 
 an image of it being on the taskbar
 
