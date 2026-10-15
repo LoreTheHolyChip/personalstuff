@@ -15,7 +15,7 @@ so you go into windhawk > create new mod > copy script > paste it into windhawk 
 
 # Fluent Cursor
 
-[Source — Fluent Pointer v0.3.53](mods/fluent-pointer.wh.cpp) · Experimental code, untested from this repository.
+[Source — Fluent Pointer v0.3.53](mods/fluent-pointer.wh.cpp) · Tested by the author on their PC.
 kinda buggy but still cool, it adds animations to the cursor and also adds elastic physic and more!
 feel free to leave some ideas on issue! and also if there are any actual bugs, ill decide to fix it, cuz yeah im lazy lol
 heres some examples:
@@ -36,7 +36,11 @@ it also has animation for hovering buttons and another animation when it passes 
 # KDE Connect Integration
 this is entirely made by me and chatgpt and also requires another module that im gonna give.
  
-Sources (work in progress; missing required header files, **not ready to compile**):
+**REQUIRES [KDE Connect for Windows](https://kdeconnect.kde.org/)** installed and running on the PC, with KDE Connect installed and paired on your phone.
+
+**Tested and working on my setup**, including both the integration and its battery module.
+
+Sources (the original versions work on my PC; some shared `.hpp` dependencies still need to be added to this repo for others to compile them):
 - [KDE Connect Integration v0.6.0](mods/kde-connect-integration.wh.cpp)
 - [KDE Connect Battery Module v0.1.0](mods/kde-connect-battery-module-windows.wh.cpp)
 - [Required files and setup notes](mods/KDE_CONNECT_STATUS.md)
@@ -55,7 +59,7 @@ it has also support for having multiple devices connected.
 ---
 # Fluent Clock
 
-[Source — Fluent Clock v0.1.43](mods/fluent-clock.wh.cpp) · Experimental code, untested from this repository.
+[Source — Fluent Clock v0.1.43](mods/fluent-clock.wh.cpp) · Tested by the author on their PC.
 makes the time have a smooth animation, for when it changes.
 
 https://github.com/user-attachments/assets/27bbd04b-265d-4d48-a1f8-152743b47868

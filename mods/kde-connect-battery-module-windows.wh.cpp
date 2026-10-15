@@ -12,6 +12,8 @@
 // ==WindhawkModReadme==
 /*
 # KDE Connect Battery for Windows
+**Requires KDE Connect for Windows to be installed and running, with a paired phone.**
+**Tested by the author together with KDE Connect Integration on their PC.**
 Receives the phone's existing KDE Connect battery packets, without ADB.
 Adds the incoming battery capability to KDE Connect identity packets.
 Records only device ID, battery percentage, charging state and last update.

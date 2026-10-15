@@ -13,6 +13,9 @@
 /*
 # KDE Connect Integration
 
+**Requires KDE Connect for Windows to be installed and running, with the phone paired through KDE Connect.**
+**The author reports this mod and the companion Battery Module working on their setup.**
+
 Native XAML taskbar button in a reserved left column, with a separate native
 notification popup. Taskbar Styler controls the DockLike acrylic islands.
 No Python, PowerShell helper, separate app or ADB.
