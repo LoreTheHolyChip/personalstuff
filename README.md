@@ -85,7 +85,6 @@ new layout
 <img width="716" height="860" alt="{D55351CB-2C0F-45CF-B686-B1CA86D69B59}" src="https://github.com/user-attachments/assets/721b2890-c4c7-44d7-b8d9-9e01e7fc8c1a" />
 
 # finished, more will come,  if i dont forget about this.
-oh wait i almost forgot, also check out covertabby on the windhawk store, yeah i made it... its cool
+oh wait i almost forgot, also check out covertabby on the windhawk store, yeah i made it... its cool:
 
-wait no its still not there, well you can get the code from here:
-https://github.com/LoreTheHolyChip/windhawk-mods/blob/add-covertabby/mods/covertabby.wh.cpp
+https://windhawk.net/mods/covertabby
